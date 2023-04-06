@@ -17,58 +17,18 @@
     "0": {
       "level": 0,
       "min": 0,
-      "max": 100,
+      "max": 2776,
       "character": null,
       "img": null,
       "img_grey": null
     },
     "1": {
       "level": 1,
-      "min": 101,
-      "max": 350,
+      "min": 2777,
+      "max": 3000,
       "character": "fish",
-      "img": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F41F.svg?sanitize=true",
-      "img_grey": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F41F.svg?sanitize=true"
-    },
-    "2": {
-      "level": 2,
-      "min": 351,
-      "max": 750,
-      "character": "frog",
-      "img": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F438.svg?sanitize=true",
-      "img_grey": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F438.svg?sanitize=true"
-    },
-    "3": {
-      "level": 3,
-      "min": 751,
-      "max": 1000,
-      "character": "duck",
-      "img": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F986.svg?sanitize=true",
-      "img_grey": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F986.svg?sanitize=true"
-    },
-    "4": {
-      "level": 4,
-      "min": 1001,
-      "max": 1500,
-      "character": "koala",
-      "img": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F428.svg?sanitize=true",
-      "img_grey": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F428.svg?sanitize=true"
-    },
-    "5": {
-      "level": 5,
-      "min": 1501,
-      "max": 2000,
-      "character": "cat",
-      "img": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F408.svg?sanitize=true",
-      "img_grey": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F408.svg?sanitize=true"
-    },
-    "6": {
-      "level": 6,
-      "min": 2001,
-      "max": 2812,
-      "character": "lion",
-      "img": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F981.svg?sanitize=true",
-      "img_grey": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F981.svg?sanitize=true"
+      "img": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Reliability-2nd/master/final_image.png",
+      "img_grey": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Reliability-2nd/master/final_image.png"
     }
   },
   "betaMode": false,
@@ -84,9 +44,9 @@
     "navbarVariant": "info"
   },
   "home": {
-    "title": "Braindr - RBC",
-    "tagline": "Reliability - 2nd",
-    "backgroundUrl": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Test/master/background_image.jpeg?sanitize=true"
+    "title": "",
+    "tagline": "",
+    "backgroundUrl": "https://raw.githubusercontent.com/nathaliaesper/Braindr-Reliability-2nd/master/background_image.png"
   },
   "play": {
     "blankImage": "https://raw.githubusercontent.com/SwipesForScience/testConfig/master/images/undraw_blank_canvas.svg?sanitize=true"
